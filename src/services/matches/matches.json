@@ -1,0 +1,40 @@
+[
+  {
+    "match_id": 1,
+    "match_no": 1,
+    "date": "5/05/2023",
+    "venue": "Wankhede Stadium",
+    "season_year": 2023,
+    "team_A": 1,
+    "team_B": 2,
+    "team_A_overs": 15.0,
+    "team_B_overs": 20.0,
+    "team_A_wickets": 4,
+    "team_B_wickets": 9,
+    "team_A_score": 201,
+    "team_B_score": 178,
+    "status": "completed",
+    "result": "win",
+    "winner_id": 1,
+    "player_of_the_match": 4
+  },
+  {
+    "match_id": 2,
+    "match_no": 2,
+    "date": "5/05/2023",
+    "venue": "Wankhede Stadium",
+    "season_year": 2023,
+    "team_A": 1,
+    "team_B": 2,
+    "team_A_overs": 15.0,
+    "team_B_overs": 20.0,
+    "team_A_wickets": 4,
+    "team_B_wickets": 9,
+    "team_A_score": 201,
+    "team_B_score": 178,
+    "status": "upcoming",
+    "result": "win",
+    "winner_id": 1,
+    "player_of_the_match": 4
+  }
+]
